@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9988A260B400A7FBDF0B005A2553899F568DD5A0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9988A260B400A7FBDF0B005A2553899F568DD5A0" : 0,
+    "3AB6DB7A0492E4CE673821E0D63AFE44DCFA592F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C11C9874-EFAE-494A-9B5C-6FCF35105D37",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9988A260B400A7FBDF0B005A2553899F568DD5A0" : "SqlLiteTest\/",
+    "3AB6DB7A0492E4CE673821E0D63AFE44DCFA592F" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SqlLiteTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SqlLiteTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hebingbing313\/SqliteTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3AB6DB7A0492E4CE673821E0D63AFE44DCFA592F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hebingbing313\/SimpleSuger.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9988A260B400A7FBDF0B005A2553899F568DD5A0"
+    }
+  ]
+}
